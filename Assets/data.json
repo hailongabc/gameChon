@@ -1,0 +1,12 @@
+
+{
+  "answers": [ "A1", "A2", "A3", "A4" ],
+  "question": "Q1",
+  "redings": "",
+  "soundTtitle": "quan_sat_hinh_ve_va_chon_so_thich_hop",
+  "anim": false,
+  "center": false,
+  "soundAnim": true,
+  "title": "Chọn đáp án đúng.",
+  "right_answer": [ "A1" ]
+}
